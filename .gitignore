@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated output
+*.html
+*.log
+*.aux
+*.out
+*.toc
